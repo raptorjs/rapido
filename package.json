@@ -1,6 +1,6 @@
 {
   "name": "rapido",
-  "version": "1.0.0-SNAPSHOT",
+  "version": "1.1.0-beta",
   "description": "Rápido is an extensible command line interface that enables rapid development for any technology stack. Rápido is written in JavaScript and is built on top of Node.js and npm.",
   "main": "lib/rapido.js",
   "scripts": {
@@ -19,15 +19,15 @@
     "npm",
     "development"
   ],
-  "author": "Patrick Steele-Idem <psteeleidem@ebay.com>",
+  "author": "Patrick Steele-Idem <pnidem@gmail.com>",
   "license": "BSD",
   "readmeFilename": "README.md",
   "dependencies": {
     "cli-color": "~0.2.2",
-    "raptor-util": "0.1.0-SNAPSHOT",
-    "raptor-files": "0.1.0-SNAPSHOT",
-    "raptor-promises": "0.1.0-SNAPSHOT",
-    "raptor-logging": "0.1.0-SNAPSHOT",
+    "raptor-util": "^0.2.0-beta",
+    "raptor-files": "^0.2.0-beta",
+    "raptor-promises": "^0.2.0-beta",
+    "raptor-logging": "^0.2.0-beta",
     "optimist": "~0.3.5",
     "prompt": "~0.2.9",
     "dustjs-linkedin": "~1.2.1",
@@ -35,8 +35,8 @@
     "colors": "~0.6.0-1",
     "ejs": "~0.8.0",
     "path-filters": "~1.0.5",
-    "property-handlers": "~0.1.0",
-    "child-process-promise": "~0.1.1",
+    "property-handlers": "^0.1.0",
+    "child-process-promise": "^0.1.1",
     "split": "~0.3.0",
     "request": "~2.34.0"
   },
