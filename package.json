@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/raptorjs/rapido.git"
+    "url": "https://github.com/raptorjs3/rapido.git"
   },
   "keywords": [
     "rapid",
@@ -34,17 +34,19 @@
     "npm": "~1.2.15",
     "colors": "~0.6.0-1",
     "ejs": "~0.8.0",
-    "path-filters": "~1.0.5"
+    "path-filters": "~1.0.5",
+    "property-handlers": "~0.1.0",
+    "child-process-promise": "~0.1.1",
+    "split": "~0.3.0",
+    "request": "~2.34.0"
   },
   "devDependencies": {
     "mocha": "~1.8.2",
-    "chai": "~1.5.0"
+    "chai": "~1.5.0",
+    "mocha-istanbul": "~0.2.0"
   },
   "bin": {
     "rap": "bin/rap"
-  },
-  "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
   },
   "ebay": {}
 }
