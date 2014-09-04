@@ -1,53 +1,55 @@
 {
-    "name": "rapido",
-    "description": "Rápido is an extensible command line interface that enables rapid development for any technology stack. Rápido is written in JavaScript and is built on top of Node.js and npm.",
-    "main": "lib/rapido.js",
-    "scripts": {
-        "test": "node_modules/.bin/mocha test/ --ignore-leaks"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/raptorjs3/rapido.git"
-    },
-    "keywords": [
-        "rapid",
-        "cli",
-        "raptor",
-        "automation",
-        "commands",
-        "npm",
-        "development"
-    ],
-    "author": "Patrick Steele-Idem <pnidem@gmail.com>",
-    "license": "BSD",
-    "readmeFilename": "README.md",
-    "dependencies": {
-        "child-process-promise": "^0.1.1",
-        "cli-color": "~0.2.2",
-        "colors": "~0.6.0-1",
-        "dustjs-linkedin": "~1.2.1",
-        "ejs": "~0.8.0",
-        "npm": "~1.2.15",
-        "optimist": "~0.3.5",
-        "path-filters": "~1.0.5",
-        "prompt": "^0.2.12",
-        "property-handlers": "^0.1.0",
-        "raptor-files": "^0.2.0-beta",
-        "raptor-logging": "^0.2.0-beta",
-        "raptor-polyfill": "^0.2.2-beta",
-        "raptor-promises": "^0.2.0-beta",
-        "raptor-util": "^0.2.0-beta",
-        "request": "~2.34.0",
-        "split": "~0.3.0"
-    },
-    "devDependencies": {
-        "mocha": "~1.8.2",
-        "chai": "~1.5.0",
-        "mocha-istanbul": "~0.2.0"
-    },
-    "bin": {
-        "rap": "bin/rap"
-    },
-    "ebay": {},
-    "version": "1.1.8-beta"
+  "name": "rapido",
+  "description": "Rápido is an extensible command line interface that enables rapid development for any technology stack. Rápido is written in JavaScript and is built on top of Node.js and npm.",
+  "main": "lib/rapido.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha test/ --ignore-leaks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raptorjs3/rapido.git"
+  },
+  "keywords": [
+    "rapid",
+    "cli",
+    "raptor",
+    "automation",
+    "commands",
+    "npm",
+    "development"
+  ],
+  "author": "Patrick Steele-Idem <pnidem@gmail.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "child-process-promise": "^0.1.1",
+    "cli-color": "~0.2.2",
+    "colors": "~0.6.0-1",
+    "dustjs-linkedin": "~1.2.1",
+    "ejs": "~0.8.0",
+    "npm": "~1.2.15",
+    "optimist": "~0.3.5",
+    "path-filters": "~1.0.5",
+    "prompt": "^0.2.12",
+    "property-handlers": "^0.1.0",
+    "raptor-files": "^1.0.0-beta",
+    "raptor-logging": "^1.0.0-beta",
+    "raptor-polyfill": "^1.0.0-beta",
+    "raptor-promises": "^1.0.0-beta",
+    "raptor-util": "^1.0.0-beta",
+    "request": "~2.34.0",
+    "split": "~0.3.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.8.2",
+    "chai": "~1.5.0",
+    "mocha-istanbul": "~0.2.0"
+  },
+  "bin": {
+    "rap": "bin/rap"
+  },
+  "ebay": {},
+  "version": "1.1.8-beta",
+  "__filename": "/Users/psteeleidem/development/github/raptorjs3/rapido/package.json",
+  "__dirname": "/Users/psteeleidem/development/github/raptorjs3/rapido"
 }
