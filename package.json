@@ -32,11 +32,11 @@
         "path-filters": "~1.0.5",
         "prompt": "^0.2.12",
         "property-handlers": "^0.1.0",
-        "raptor-files": "^1.0.0-beta",
-        "raptor-logging": "^1.0.0-beta",
-        "raptor-polyfill": "^1.0.0-beta",
-        "raptor-promises": "^1.0.0-beta",
-        "raptor-util": "^1.0.0-beta",
+        "raptor-files": "^1.0.0",
+        "raptor-logging": "^1.0.0",
+        "raptor-polyfill": "^1.0.0",
+        "raptor-promises": "^1.0.0",
+        "raptor-util": "^1.0.0",
         "request": "~2.34.0",
         "split": "~0.3.0"
     },
@@ -51,5 +51,5 @@
     "ebay": {},
     "__filename": "/Users/psteeleidem/development/github/raptorjs3/rapido/package.json",
     "__dirname": "/Users/psteeleidem/development/github/raptorjs3/rapido",
-    "version": "1.1.9-beta"
+    "version": "1.1.9"
 }
