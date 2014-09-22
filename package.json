@@ -31,7 +31,7 @@
         "optimist": "~0.3.5",
         "path-filters": "~1.0.5",
         "prompt": "^0.2.12",
-        "property-handlers": "^0.1.0",
+        "property-handlers": "^1.0.0",
         "raptor-files": "^1.0.0",
         "raptor-logging": "^1.0.0",
         "raptor-polyfill": "^1.0.0",
